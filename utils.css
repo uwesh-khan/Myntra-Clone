@@ -1,0 +1,30 @@
+.flex{
+    display:flex;   
+    /* It will make the dislplay of class as flexbox  */
+}
+
+.items-center{
+    align-items:center;
+    /* Aligns flex item along cross axis */
+}
+
+.justify-center{
+    justify-content:center;
+    /* Align items along main axis */
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.semi-bold{
+    font-weight:light;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+.right div{
+    margin-left:13px;
+    margin-right:13px;
+}
