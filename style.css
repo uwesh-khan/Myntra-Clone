@@ -1,0 +1,70 @@
+body{
+    width:100%;
+    height:100%;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+
+
+.left img{
+    width:35px;
+    height:25px;
+    /* It will adjust the logo image */
+  
+}
+
+.container{
+    padding:0 10vw;
+    margin:5px 0;
+    /* auto means ,it will horizontally center the elements within its container */
+}
+
+nav ul li{
+
+    list-style:none;
+    padding: 10px 14px; 
+    
+    /* top bottom 0 , left right 14 */
+    /* Clockwise , top => right => bottom =>left */
+}
+
+nav ul li sup{
+    color: red;
+    /* padding-bottom: 20px; */
+}
+
+
+header{
+    position:sticky;
+    top:0;
+    background-color:white;
+    box-shadow: rgba(0,0,0,0.15) 1.95px 1.95px 2.6px;
+ /* it will give shadow to the header but not available at website  */
+
+}
+
+.section1{
+    background-color: #f2f2f2;
+}
+
+#in{
+    width:30vw;
+    padding: 7px 16px;
+    border-radius:5px;
+    border:0.5px solid grey; 
+}
+
+.homeImg{
+    width:80vw;
+    margin: 12px 0;
+}
+
+.itemImg{
+    width:10vw;
+    margin:0 6px;
+}
+
+#Mylogo{
+    width:auto;
+    height: 38px;
+}
