@@ -9,8 +9,6 @@
 #technologies-used
 #contributors
 
----
-
 ## Introduction
 
 Welcome to our Myntra Clone project! This is a beginner-friendly implementation of the popular e-commerce platform Myntra. Our project aims to recreate the core features of Myntra's website, focusing on user interface design and basic functionality.
